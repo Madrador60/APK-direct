@@ -1,5 +1,10 @@
 {
+    "mandatory":  false,
+    "minAndroid":  23,
+    "versionCode":  41,
     "apkUrl":  "https://github.com/Madrador60/APK-direct/releases/latest/download/Madrador-TV-V4-Ultra-Premium.apk",
-    "versionCode":  40,
-    "versionName":  "5.1.7"
+    "sizeBytes":  5296838,
+    "versionName":  "5.1.8",
+    "changelog":  "Mise à jour intégrée renforcée avec changelog, SHA-256 et reprise d\u0027échec. Nouvelle interface séries avec saisons, épisodes, progression et lancement par épisode. Navigation Retour améliorée sur l\u0027accueil.",
+    "sha256":  "58ada62b0de4e76fd041ac95a54d923613fdccb8bda3667e1baf77ff71b44e34"
 }
